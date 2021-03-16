@@ -1,0 +1,5 @@
+object-detection-0.1==0.1
+poppler-utils
+numpy
+pdf2image
+OpenCV-Python
